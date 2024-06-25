@@ -6,3 +6,6 @@ contact_links:
     - name: Heroku, Repl.it, Blocked site issues
       url: https://www.youtube.com/watch?v=BLUkgRAy_Vo
       about: Do not create issues for these.
+    - name: web deploy anything
+      uses: SamKirkland/web-deploy@v1
+            
